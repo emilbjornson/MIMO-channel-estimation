@@ -5,7 +5,7 @@ This is a code package is related to the follow scientific article:
 
 Emil Björnson, Björn Ottersten, “[A Framework for Training-Based Estimation in Arbitrarily Correlated Rician MIMO Channels with Rician Disturbance](http://kth.diva-portal.org/smash/get/diva2:337243/FULLTEXT01),” IEEE Transactions on Signal Processing, vol. 58, no. 3, pp. 1807-1820, March 2010.
 
-The package contains a simulation environment, based on Matlab, that reproduces all the numerical results and figures in the article.
+The package contains a simulation environment, based on Matlab, that reproduces all the numerical results and figures in the article. *We encourage you to also perform reproducible research!*
 
 
 ##Abstract of Article
@@ -28,6 +28,6 @@ This work was supported in part by the ERC under FP7 Grant Agreement No. 228044 
 and Opportunistic Communications in Wireless Networks (COOPCOM), Project No. FP6-033533. This work was also partly performed in the framework of the CELTIC project CP5-026 WINNER+.
 
 
-##License and referencing
+##License and Referencing
 
 This code package is licensed under the GPLv2 license. If you in any way use this code for research that results in publications, please cite our original article listed above.
