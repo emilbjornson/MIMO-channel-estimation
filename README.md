@@ -1,4 +1,4 @@
-Channel Estimation
+MIMO Channel Estimation
 ==================
 
 This is a code package is related to the follow scientific article:
